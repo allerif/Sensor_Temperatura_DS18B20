@@ -11,7 +11,7 @@
 
 // Definir porta do DS18B20:
 
-#define portaTemperatura 2
+#define portaTemperatura 3
 
 // Definir uma instancia do oneWire para comunicacao com o sensor:
 
